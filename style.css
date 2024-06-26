@@ -24,7 +24,7 @@
 
 section{
     width:1440px;
-    height:720px;
+    height:650px;
     background-color:#C2F3EE;
     display:inline-block;
 }
@@ -35,15 +35,23 @@ section{
     margin-right: 710;
     margin-bottom: 80px;
     margin-left:120px;
+    
 }
-p{
+.article1{
     display:inline-block;
-
+    width: 250px;
+    height: 250px;
+    margin-left:50px;
+  margin-bottom:300px;
+  vertical-align: top;
+  margin: 150px;
 }
-article{
+
+
+.article2{
     width: 780px;
     height: 150px;
-    text-align: center;
+    margin-left:400px;
     color:#337C81
 }
 h2{
